@@ -1,28 +1,28 @@
 "Código","Produto","Quantidade","Vencimento","Transferência"
-"7891097101861","Iogurte Batavo ",12,"2025-05-15"
-"7891097101861","Iogurte batavo",6,"2025-05-08"
-"7896625211258","Iogurte vigor",17,"2025-05-19"
-"7896625211265","Iogurte vigor",7,"2025-05-12"
-"7896625211265","Iogurte vigor",3,"2025-05-06"
-"7896625211050","Iogurte vigor Danoninho chocolate ",5,"2025-05-04"
-"78966252111043","Iogurte vigor morango ",7,"2025-05-18"
-"7891999014153","Iogurte vigor chocolate 180g",4,"2025-05-14"
-"78919990141160","Iogurte vigor chocolate branco 180g",7,"2025-05-07"
-"7896275980504","Iogurte frimesa caramelo fran 200g",4,"2025-05-15"
-"7896275980504","Iogurte frimesa Fran caramelo 200g",12,"2025-05-22"
-"7896504309052","Iogurte frimesa caramelo fran 200 g",4,"2025-05-15"
-"7896275982881","Iogurte frimesa Fran caramelo frutas vermelhas ",6,"2025-05-22"
-"7896275970406","Friminho Danoninho ",9,"2025-05-19"
-"7896275970772","Iogurte frimesa 170g",6,"2025-05-22"
-"7896275970536","Iogurte frimesa 170g",4,"2025-05-10"
-"7896504308970","Iogurte frimesa 170g",8,"2025-05-15"
-"789627598072","Iogurte frimesa 170g",6,"2025-05-08"
-NA,"Café ",12,"2025-05-01"
-"7896610908002","Mortadela com toucinho ",9,"2025-05-18"
-"7896610908002","Mortadela com toucinho excelsior",4,"2025-05-25"
-"7896610908002","Mortadela com toucinho excelsior ",3,"2025-06-01"
-"7896610908101","Fiambre com picles excelsior ",3,"2025-05-04"
-"7896504302022","Apresentado fatiado santa clara",7,"2025-05-25"
-"7896610908040","Presunto cozido excelsior",7,"2025-05-22"
-"7891164007171","Apresentado aurora ",3,"2025-05-15"
-"7891164007164","Presunto cozido aurora",2,"2025-05-12"
+"7891097101861","Iogurte Batavo ",12,"2025-05-15",NA
+"7891097101861","Iogurte batavo",6,"2025-05-08",NA
+"7896625211258","Iogurte vigor",17,"2025-05-19",NA
+"7896625211265","Iogurte vigor",7,"2025-05-12",NA
+"7896625211265","Iogurte vigor",3,"2025-05-06",NA
+"7896625211050","Iogurte vigor Danoninho chocolate ",5,"2025-05-04",NA
+"78966252111043","Iogurte vigor morango ",7,"2025-05-18",NA
+"7891999014153","Iogurte vigor chocolate 180g",4,"2025-05-14",NA
+"78919990141160","Iogurte vigor chocolate branco 180g",7,"2025-05-07",NA
+"7896275980504","Iogurte frimesa caramelo fran 200g",4,"2025-05-15",NA
+"7896275980504","Iogurte frimesa Fran caramelo 200g",12,"2025-05-22",NA
+"7896504309052","Iogurte frimesa caramelo fran 200 g",4,"2025-05-15",NA
+"7896275982881","Iogurte frimesa Fran caramelo frutas vermelhas ",6,"2025-05-22",NA
+"7896275970406","Friminho Danoninho ",9,"2025-05-19",NA
+"7896275970772","Iogurte frimesa 170g",6,"2025-05-22",NA
+"7896275970536","Iogurte frimesa 170g",4,"2025-05-10",NA
+"7896504308970","Iogurte frimesa 170g",8,"2025-05-15",NA
+"789627598072","Iogurte frimesa 170g",6,"2025-05-08",NA
+NA,"Café ",12,"2025-05-01",NA
+"7896610908002","Mortadela com toucinho ",9,"2025-05-18",NA
+"7896610908002","Mortadela com toucinho excelsior",4,"2025-05-25",NA
+"7896610908002","Mortadela com toucinho excelsior ",3,"2025-06-01",NA
+"7896610908101","Fiambre com picles excelsior ",3,"2025-05-04",NA
+"7896504302022","Apresentado fatiado santa clara",7,"2025-05-25",NA
+"7896610908040","Presunto cozido excelsior",7,"2025-05-22",NA
+"7891164007171","Apresentado aurora ",3,"2025-05-15",NA
+"7891164007164","Presunto cozido aurora",2,"2025-05-12",NA
